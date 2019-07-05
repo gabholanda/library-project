@@ -1,0 +1,9 @@
+.edit-link {
+  text-decoration: none;
+  background-color: gray;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
